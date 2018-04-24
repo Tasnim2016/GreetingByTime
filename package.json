@@ -1,0 +1,25 @@
+{
+  "name": "greetingbytime",
+  "version": "1.0.0",
+  "description": "This is a fun code which greets you according to time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasnim2016/GreetingByTime.git"
+  },
+  "keywords": [
+    "Test",
+    "Fun",
+    "Greeting",
+    "Time"
+  ],
+  "author": "“Tasnim <“tasnim.bd10@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasnim2016/GreetingByTime/issues"
+  },
+  "homepage": "https://github.com/Tasnim2016/GreetingByTime#readme"
+}
